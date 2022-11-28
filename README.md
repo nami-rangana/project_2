@@ -1,3 +1,4 @@
-# project_2
-*_AUTHORS_*
+# PROJECT 2
+**_AUTHORS:_**
 >Rangana De Silva
+**_CONTENT:_**
