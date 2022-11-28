@@ -1,5 +1,5 @@
 # PROJECT 2
-**_AUTHORS:_**
+### **_AUTHORS:_**
   1. Rangana De Silva
   2. xxx
-**_CONTENT:_**
+### **_CONTENT:_**
