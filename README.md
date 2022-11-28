@@ -1,3 +1,3 @@
 # project_2
-_authors_\
+_authors_/
 >Rangana De Silva
