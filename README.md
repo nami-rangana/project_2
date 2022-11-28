@@ -1,6 +1,5 @@
 # PROJECT 2
 **_AUTHORS:_**
-<ul>
-  <li>Rangana De Silva
-   <li>xxx
+  1. Rangana De Silva
+  2. xxx
 **_CONTENT:_**
