@@ -1,4 +1,4 @@
 # PROJECT 2
 **_AUTHORS:_**<br />
-- Rangana De Silva\
-**_CONTENT:_**
+- Rangana De Silva<br />
+**_CONTENT:_**<br />
