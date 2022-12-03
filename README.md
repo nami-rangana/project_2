@@ -1,6 +1,6 @@
 # PROJECT 2
 ### **_AUTHORS:_**
 >- Rangana De Silva
->- xxx
+>- M Rasheed Anjum
 ### **_CONTENT:_**
->project_2.ipynb
+>project_2.ipynb : Rangana's jupyter notebook
